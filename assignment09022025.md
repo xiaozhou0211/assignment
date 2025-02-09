@@ -1,4 +1,5 @@
 DEAD LINE - 15/02/2025 18:00
+
 Submission Instructions - Any explaination or texts can be using as comment
 
 Assignment 1
@@ -36,6 +37,7 @@ Each team competes 3 times, and then the average of the 3 scores is calculated (
 A team ONLY wins if it has at least DOUBLE the average score of the other team. Otherwise, no team wins!
 
 TEST DATA 1: Dolphins score 44, 23 and 71. Koalas score 65, 54 and 49
+
 TEST DATA 2: Dolphins score 85, 54 and 41. Koalas score 23, 34 and 27
 
 1. Create an arrow function calcAverage to calculate the average of 3 scores. This function should have three parameters and return a single number (the average score).
